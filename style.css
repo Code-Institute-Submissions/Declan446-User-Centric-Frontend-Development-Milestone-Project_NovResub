@@ -23,7 +23,8 @@
 
 .bg-section-color {
     background-color: black;
-    padding-top: 20px;
+    padding-top: 10px;
+    
 }
 
 /*-----------------------------------------------Special paddings/margins/text*/
@@ -98,6 +99,7 @@ header {
 #nav li {
     font-size: 14px;
     padding: 0;
+    box-shadow: 5px;
 }
 
 .menuitem {
@@ -193,9 +195,23 @@ p {
 .history {
     padding: 50px;
     letter-spacing: 3px;
+    text-align: center;
 }
 
 li a {
     color: red;
     text-decoration: none;
 }
+
+.video {
+    padding: 10px;
+}
+
+.hits {
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: goldenrod;
+    padding: 30px;
+    
+}
+
