@@ -1,12 +1,18 @@
-Declan O'Reilly
-Frist Milestone Project
+# User Centric Frontend Development Milestone Project
 
-User Centric Frontend Development Milestone Project
+**About:** I have based my User Centric Frontend Development Milestone Project on a fan page for Australian rock band ACDC.
+I plan to create a clear, easy and well-structured fan page so that people of all ages can find information about the band 
+and up coming gigs with ease.
+
+**Personal reason** I choose ACDC because I've been a huge fan for a number of year's.
+I love their music and i also love the colour's associated with the band. Another reason for this fan page is that the majority
+of ACDC fans would be in their twilight years and may find it hard to navigate ACDC's official fan page because theirs a lot happening
+on the page. As a younger ACDC fan i find it easy to locate and access information about the band but i can see why older people would 
+find the fan pages overwhelming. So with all this in mind i plan to make my page very clear and easy to navigate. 
 
 UX:
 
-My project is a ACDC fan page. I choose ACDC because i've been a fan for a number of year's.
-I love their music and i also love the colour's associated with them.
+My project is a ACDC fan page. 
 
 The first step of my ux designs was finding out what a ACDC fan would like to see on my page.
 So i asked a few friend's who are huge ACDC fan's. After only a few minutes we come up with a list.
