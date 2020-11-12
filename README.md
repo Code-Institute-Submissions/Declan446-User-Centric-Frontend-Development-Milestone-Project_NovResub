@@ -10,6 +10,18 @@ of ACDC fans would be in their twilight years and may find it hard to navigate A
 on the page. As a younger ACDC fan i find it easy to locate and access information about the band but i can see why older people would 
 find the fan pages overwhelming. So with all this in mind i plan to make my page very clear and easy to navigate. 
 
+**Business opportunities:**
+* Advertising for new and up coming rock bands.
+* Advertising for music venues and bars.
+* Advertising for music shops and music instruments.
+
+**Users benefits**
+* Clear and easy access to information about the band.
+* List of band members throughout the years.
+* The Bands tour dates and up coming gigs.
+* Find out the history of the band.
+
+
 UX:
 
 My project is a ACDC fan page. 
