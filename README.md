@@ -21,19 +21,30 @@ find the fan pages overwhelming. So with all this in mind i plan to make my page
 * The Bands tour dates and up coming gigs.
 * Find out the history of the band.
 
+# UX Design 
 
-UX:
+The first thing i did in regards to *UX design* was finding out what a ACDC fan would like to see on my page.
+So i asked a few friend's who are also huge ACDC fan's. After only a few minutes we come up with a list.
+* Live videos of ACDC's gigs.
+* Information about the band members.
+* Pictures of the band.
+* links to the bands official social media pages.
+* A link to ACDC's official store.
 
-My project is a ACDC fan page. 
+**Users benefits**
+* Users of all ages will be able to navigate the site without becoming overwhelmed.
+* Users will be able to listen to videos of ACDC's music with ease.
+* Users can find information and pictures of the bands members with one click of the mouse.
+* Users will find tickets to the bands shows when they start touring again. 
 
-The first step of my ux designs was finding out what a ACDC fan would like to see on my page.
-So i asked a few friend's who are huge ACDC fan's. After only a few minutes we come up with a list.
-
-1:videos of ACDC'S music
-2;band info
-3:pictures of the band
-4:links to the bands social media
-5:link to ACDC official store.
+**Users Stories**
+1. As a user and guitar player, i would like to find videos of ACDC on the page that will inspire me 
+2. As a user and fan, i would like to see pictures of the band members.
+3. As a user and fan, i am not very good with computers so i would like to find a ACDC fan page thaht is fun and easy to navigate.
+4. As a user and fan, i would like to know about the history of ACDC.
+5. As a user and fan, i would like to find tickets for up coming gigs.
+6. As a user and fan, i would like access to the bands official store.
+7. As a user and fan, i want links to the bands official social media accounts.
 
 With all my research done and my ideas ready to go i started my wireframes.
 
