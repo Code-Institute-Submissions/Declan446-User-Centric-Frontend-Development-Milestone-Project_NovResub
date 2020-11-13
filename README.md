@@ -92,22 +92,13 @@ Balsamiq cloud is a great tool for creating very professional wireframes.
 
 ![Mobile view](/wireframes/ACDC.mobile.png)
 
+# Features
 
-The first ideas for the home are located in the static/wireframes 
+**Nav Bar:** The nar bar has four links to the pages of the web site(Home, About, The Band and Tickets) 
 
-Once i finished my wireframes i showed them to my friends (users) and they approved.
-I then picked my colours and images for my site.
-Now i was ready to start coding.
+**Footer:** The footer has three links in it to ACDC's twitter,facebook and official store.
 
-
-
-Features:
-
-Nav bar: I used the same nav bar from the mini project with Bootstrap 4.
-I also have links at the bottom off my wedsite to ACDC'S facebook,twitter
- and their official web store.
-
-Embedded videos: I used embedded videos on my home so that the user could listen to ACDC while visiting my site.
+**Embedded Videos:** I used embedded videos on my home page so that the user could listen to ACDC while visiting the site.
 
 
 Testing:
