@@ -100,19 +100,18 @@ Balsamiq cloud is a great tool for creating very professional wireframes.
 
 **Embedded Videos:** I used embedded videos on my home page so that the user could listen to ACDC while visiting the site.
 
+# Technologies Used
+The main Technologies used for the ACDC fan page were as follows:
+* **Gitpod** was used as the IDE for building the ACDC fan page.
+* **GitHub** was used to store the project remotely and used to deploy the project
+* **HTML** was used to structure the web pages.
+* **CSS** was used for the styling.
+* **Bootstrap** was used for most of the features and functionality.
+* **Font Awesome** was used for the icons.
+
 
 Testing:
 
-I tested my website on a number of browsers,mobile devices and tablets to ensure
-everything looks good on all screen sizes.
-
-Technologies Used:
-
-Html
-Css
-Bootstrap
-Font awesome
-Hover css
 
 Credits:
 
