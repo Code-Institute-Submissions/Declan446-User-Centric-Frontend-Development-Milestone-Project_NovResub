@@ -128,17 +128,15 @@ https://en.wikipedia.org/wiki/AC/DC - automatic!
 [wiki](https://en.wikipedia.org/wiki/AC/DC)
 
 **Media:**
+
 I copied my pictuces of the band from the official ACDC wedsite and resized them myself.
 https://pwrup.acdc.com/ - automatic!
 [ACDC](https://pwrup.acdc.com/).
 I got the image in my header from google and saved it to my desktop.
 
-
-
-Acknowledgements:
-
-90% of my layout and structure code(nav bar,header,footer) is from mini project with Bootstrap 4(Resume project).
-I used alot of the code because i liked how it looked and how easy it was to get around the site.
-I also used the code because i am not an expert on bootstrap yet and found it difficult to use.
-I also copied the code from the ACDC official site for the pictuces and layout of the band page. 
-I used this code again on my index html page (Home page) to position the embedded videos the same as the pictures on the band page.
+**Acknowledgements:**
+* 90% of my layout and structure code(nav bar,header,footer) is from mini project with Bootstrap 4(Resume project).
+* I used alot of the code because i liked how it looked and how easy it was to get around the site.
+* I also used the code because i am not an expert on bootstrap yet and found it difficult to use.
+* I also copied the code from the ACDC official site for the pictuces and layout of the band page. 
+* I used this code again on my index html page (Home page) to position the embedded videos the same as the pictures on the band page.
