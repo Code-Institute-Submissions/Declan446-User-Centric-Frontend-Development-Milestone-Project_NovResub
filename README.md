@@ -46,7 +46,38 @@ So i asked a few friend's who are also huge ACDC fan's. After only a few minutes
 6. As a user and fan, i would like access to the bands official store.
 7. As a user and fan, i want links to the bands official social media accounts.
 
-With all my research done and my ideas ready to go i started my wireframes.
+# Design
+
+**Logo:**
+For my logo i choose a picture of *A deserted highway with a red sky in the background*. I choose this picture to represent
+one of ACDC's most famous songs *Highway to Hell*. I added the bands name with a lighten bolt in the middle. To finish the logo i 
+used my favourite ACDC lyrics *ITS A LONG WAY TO THE TOP IF YOU WANT TO ROCK & ROLL*
+
+**Colours:**
+The only colours used for this fan page was red, black, Goldenrod and blue. These colours were used because they represent the band perfectly.
+* *Red* was used for the background colour for the nav bar and footer to make the icons pop. It was also used for the lyrics in the logo.
+* *Black* was used for the icons in the nav bar and footer so they would stand out well from the red background. It was also used for the section background.
+* *Goldenrod* was used for all text on the fan page.
+* *Blue* was used for social media and official store links in the footer.
+
+**Icons**
+All the icons used in the navbar and footer came from Font Awesome.
+
+**Planning**
+
+1. I decided to create a fan page on the band ACDC that users could find information, videos and pictuces of ACDC with ease.
+2. I talked to potential users and found out their needs.
+3. Users needs are as follows: fast, easy to navigate and to find out more about ACDC.
+4. I picked the colours for the page.
+5. Picked my image for my logo (*A deserted highway with a red sky in the background*).
+6. Decided what my pages were going to be in my navbar (Home, About, The Band, and Tickets).
+7. Picked the features that the fan page would have.
+8. Designed my wireframes.
+9. Picked my music videos and images for the band members.
+10. Found the links for the Bands official social media accounts and official store.
+11. Then i opened gitpod and started coding.
+
+
 
 Once i finished my wireframes i showed them to my friends (users) and they approved.
 I then picked my colours and images for my site.
