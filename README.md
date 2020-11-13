@@ -77,7 +77,23 @@ All the icons used in the navbar and footer came from Font Awesome.
 10. Found the links for the Bands official social media accounts and official store.
 11. Then i opened gitpod and started coding.
 
+**Wireframes**
+I used Balsamiq cloud to develope my wirefames because i was able to create wirefames for large screen sizes and mobile screen sizes.
+Balsamiq cloud is a great tool for creating very professional wireframes.
 
+![Home page](/wireframes/index.html.png)
+
+
+![Band page](/wireframes/band.html.png)
+
+
+![About page](/wireframes/about.html.png)
+
+
+![Mobile view](/wireframes/ACDC.mobile.png)
+
+
+The first ideas for the home are located in the static/wireframes 
 
 Once i finished my wireframes i showed them to my friends (users) and they approved.
 I then picked my colours and images for my site.
