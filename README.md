@@ -119,19 +119,20 @@ The main Technologies used for the ACDC fan page were as follows:
 * Iphone 5 = No problems.
 * Ipads = No problems
 
+# Credits:
+**Content:**
 
-Credits:
+I used most of my own content except the bands history on the about page. 
+I got the content of the paragraph from ACDC'S Wikipedia page.
+https://en.wikipedia.org/wiki/AC/DC - automatic!
+[wiki](https://en.wikipedia.org/wiki/AC/DC)
 
-Content:
-
-I used most of my own content except the bands history on my about page. 
-I got the content of my paragraph from ACDC'S Wikipedia page.
-
-Media:
-
+**Media:**
 I copied my pictuces of the band from the official ACDC wedsite and resized them myself.
+https://pwrup.acdc.com/ - automatic!
+[ACDC](https://pwrup.acdc.com/).
 I got the image in my header from google and saved it to my desktop.
-The background images on my index html page and band page i also got from google.
+
 
 
 Acknowledgements:
