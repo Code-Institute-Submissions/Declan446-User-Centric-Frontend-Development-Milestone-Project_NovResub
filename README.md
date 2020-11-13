@@ -109,8 +109,15 @@ The main Technologies used for the ACDC fan page were as follows:
 * **Bootstrap** was used for most of the features and functionality.
 * **Font Awesome** was used for the icons.
 
-
-Testing:
+ # Testing:
+ I tested my fan page on google chrome, internet explorer, firefox and safari and found no problems displaying the pages
+ in any browser. The project was also tested on all screen sizes.
+* Galaxy S5 = No problems.
+* Pixel 2 and 2 XL = No problems.
+* Iphone 5 = No problems.
+* Iphone 6/7/8 = No problems.
+* Iphone 5 = No problems.
+* Ipads = No problems
 
 
 Credits:
